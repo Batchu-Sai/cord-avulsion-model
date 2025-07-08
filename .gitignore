@@ -148,4 +148,5 @@ Thumbs.db
 *.png
 *.pdf
 *.svg
-!requirements.txt 
+!requirements.txt
+!figures/*.png 
