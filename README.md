@@ -19,7 +19,7 @@ This repository contains a validated mechanical model of the thoracic spinal cor
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Batchu-Sai/cord-avulsion-model>
 cd cord-avulsion-model
 ```
 
@@ -77,8 +77,7 @@ cord-avulsion-model/
 ├── requirements.txt                     # Python dependencies
 ├── spinal_model.py                     # Core model implementation
 ├── analyze_model.py                    # Figure generation and analysis
-├── validate_spinal_model_corrected.py  # Corrected validation script
-├── validate_spinal_model.py            # Original validation script
+├── validate_spinal_model.py           # Validation script
 ├── test_spinal_model.py               # Unit tests
 ├── VALIDATION_SUMMARY.md              # Detailed validation results
 ├── figures/                           # Generated figures
