@@ -19,7 +19,7 @@ This repository contains a validated mechanical model of the thoracic spinal cor
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Batchu-Sai/cord-avulsion-model/tree/main>
+git clone https://github.com/Batchu-Sai/cord-avulsion-model
 cd cord-avulsion-model
 ```
 
