@@ -1,5 +1,5 @@
 """
-Corrected validation script for spinal cord model
+Validation script for spinal cord model
 """
 from spinal_model import SpinalCordModel
 import numpy as np
