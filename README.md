@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Spinal Cord Avulsion Model
 
 A computational model for analyzing traumatic spinal cord avulsion injuries under high-speed loading conditions.
@@ -127,21 +127,16 @@ The model has been validated against:
 If you use this model in your research, please cite:
 
 ```
-[Your paper citation here]
+
 ```
 
 ## License
 
 [Add your license information here]
 
-## Contributing
-
-[Add contribution guidelines here]
-
 ## Contact
 
-[Add contact information here] 
+[batchu-sai@cooperhealth.edu] 
 =======
 # cord-avulsion-model
 A biomechanical model for thoracic spinal cord avulsion during high-speed hyperflexion
->>>>>>> aacc33938649a4201058c9bd2108ed76f0b5cebe
