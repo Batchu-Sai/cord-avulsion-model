@@ -12,7 +12,6 @@ class SpinalCordModel:
         self.K_theta = 12      # Disc-ligament stiffness [Nm/rad]
         self.C_theta = 0.12     # Damping coefficient [Nms/rad]
         self.E_c = 0.3e6        # Cord elastic modulus [Pa]
-=======
         self.K_theta = 5.2      # Disc-ligament stiffness [Nm/rad]
         self.C_theta = 0.12     # Damping coefficient [Nms/rad]
         self.E_c = 1.4e6        # Cord elastic modulus [Pa]
