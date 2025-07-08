@@ -9,9 +9,9 @@ from scipy.integrate import odeint
 class SpinalCordModel:
     def __init__(self):
         # Model parameters
-        self.K_theta = 5.2      # Disc-ligament stiffness [Nm/rad]
+        self.K_theta = 12      # Disc-ligament stiffness [Nm/rad]
         self.C_theta = 0.12     # Damping coefficient [Nms/rad]
-        self.E_c = 1.4e6        # Cord elastic modulus [Pa]
+        self.E_c = 0.3e6        # Cord elastic modulus [Pa]
         self.A_c = 3.8e-6       # Cord cross-sectional area [m^2]
         self.L_0 = 0.102        # Cord rest length [m]
         self.r_c = 0.019        # Cord moment arm [m]
